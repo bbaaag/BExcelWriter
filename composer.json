@@ -1,0 +1,19 @@
+{
+    "name": "bbaaag/bexcelwriter",
+    "description": "excel大文件导出",
+    "type": "php excel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "bbaaag",
+            "email": "b15737977957@126.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+	"autoload": {
+        "psr-4": {
+            "bbaaag\\BExcelWriter\\": "src"
+        }
+    }
+}
