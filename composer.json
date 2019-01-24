@@ -9,7 +9,7 @@
             "email": "b15737977957@126.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {},
 	"autoload": {
         "psr-4": {
